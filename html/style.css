@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: red;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    float: right;
+    margin: 50px;
+    font-style: italic;
+    background-color: green;
+    color: yellow;
+    font-size: 45px;
+}
+
+img {
+    margin: 50px;
+}
+
+table {
+    font-weight: 600;
+    font-style: oblique;
+    font-style: italic;
+    color: blue;
+    font-size: 32px;
+    background-color: crimson;
+    text-align: center;
+    border: 2px solid black;
+}
+
+th {
+    border: 2px solid black;
+}
+
+body {
+    background-color: darkgoldenrod;
+}
+
+ul {
+    background-color: darkred;
+    font-size: 50px;
+    text-align: center;
+}
